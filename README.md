@@ -3,13 +3,28 @@
 # Szymon Frączek
 
 ### Student of the AGH University of Science and Technology
-I'm Szymon from Poland. I really enjoy learning languages and frameworks. I also enjoy wireframing, ui, ux, and design in general.
+I am looking for an internship as a software developer. 
+Availability from July 2023 and willing to continue working after the internship.
 
 ## Skills and Experience:
-- 🖥️ Python
-- 🔭 I’m currently working on the game tic-tac-toe.pro 
-- 👀 I’m interested in programming, data science and learning languages.
-- 📫 How to reach me: szymonfr@student.agh.edu.pl 
+- Backend: Python, NodeJS, TypeScript, Databases
+- Frontend: JavaScript, HTML, CSS, React (basics)
+- Docker, RestAPI
+
+## Projects
+- [easup - 3 semester project](https://github.com/SzymiYay/medium-easup-frontend)
+- [Library threads](https://github.com/SzymiYay/easy-library-threads)
+- Projects for data management and processing in Python:
+  - [cars-service-1](https://github.com/SzymiYay/easy-cars-service-1)
+  - [cars-service-2](https://github.com/SzymiYay/easy-cars-service-2)
+  - [orders-app](https://github.com/SzymiYay/easy-orders-app)
+  - [shop-app](https://github.com/SzymiYay/easy-shop-app)
+  - [shop-app-2](https://github.com/SzymiYay/easy-shop-app-2)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymiYay) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-frączek-8955b0223//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymiyay//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/SzymiYay)  
+
+
+
+📫 How to reach me: szymoon09@gmail.com 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SzymiYay) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/szymon-frączek-8955b0223//)   
