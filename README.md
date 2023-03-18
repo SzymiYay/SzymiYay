@@ -20,6 +20,8 @@ Availability from July 2023 and willing to continue working after the internship
   - [orders-app](https://github.com/SzymiYay/easy-orders-app)
   - [shop-app](https://github.com/SzymiYay/easy-shop-app)
   - [shop-app-2](https://github.com/SzymiYay/easy-shop-app-2)
+- [big-int](https://github.com/SzymiYay/big-int)
+- [ds-lib](https://github.com/SzymiYay/ds-lib)
 
 
 
