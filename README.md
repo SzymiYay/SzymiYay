@@ -12,7 +12,7 @@ Availability from July 2023 and willing to continue working after the internship
 - Docker, RestAPI
 
 ## Projects
-- [easup - 3 semester project](https://github.com/SzymiYay/medium-easup-frontend)
+- [easup - 3rd semester project](https://github.com/SzymiYay/medium-easup-frontend)
 - [Library threads](https://github.com/SzymiYay/easy-library-threads)
 - Projects for data management and processing in Python:
   - [cars-service-1](https://github.com/SzymiYay/easy-cars-service-1)
