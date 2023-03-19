@@ -6,6 +6,10 @@
 I am looking for an internship as a software developer. 
 Availability from July 2023 and willing to continue working after the internship.
 
+I see myself as a programmer with a strong focus on creating good code
+that is easy to read, extend and maintain. I am also a proponent of TDD, an agile 
+approach to the software development process.
+
 ## Skills and Experience:
 - Backend: Python, NodeJS, TypeScript, Databases
 - Frontend: JavaScript, HTML, CSS, React (basics)
