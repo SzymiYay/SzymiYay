@@ -1,5 +1,3 @@
-<img src="https://github.com/SzymiYay/SzymiYay/blob/main/szymon_zdj.png?raw=true" width="1200" height="300">
-
 # Szymon Frączek
 
 ### Student of the AGH University of Science and Technology
