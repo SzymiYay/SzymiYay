@@ -9,9 +9,14 @@ that is easy to read, extend and maintain. I am also a proponent of TDD, an agil
 approach to the software development process.
 
 ## Skills and Experience:
-- Backend: Python, NodeJS, TypeScript, Databases
-- Frontend: JavaScript, HTML, CSS, React (basics)
-- Docker, RestAPI
+1. Good knowledge of:
+- Python, Pytest, Unittest, JavaScript, NodeJS, TypeScript, SQL, RestAPI, Docker
+- Design patterns
+- SOLID, SMART, KISS, DRY
+
+2. Basic knowledge of:
+- Java, C#, Bootstrap, Postman, Maven, JUnit
+
 
 ## Projects
 - [easup - 3rd semester project](https://github.com/SzymiYay/medium-easup-frontend)
