@@ -2,7 +2,7 @@
 
 ### Student of the AGH University of Science and Technology
 I am looking for an internship as a software developer. 
-Availability from July 2023 and willing to continue working after the internship.
+Availability from May 2023 and willing to continue working after the internship.
 
 I see myself as a programmer with a strong focus on creating good code
 that is easy to read, extend and maintain. I am also a proponent of TDD, an agile 
